@@ -43,6 +43,9 @@ const poem = `
     Who brave the night and make it work.
     We'll meet again at dawn's first ray,
     With coffee brewed and bugs to slay.
+
+    Where is the end, it is now,
+    Farewell reader.
 `;
 
 console.log(poem);
